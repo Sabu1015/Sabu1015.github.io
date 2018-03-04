@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sabuの備忘録</title>
+    <title>Categories on Sabuの備忘録</title>
     <link>https://sabu1015.github.io/categories/</link>
-    <description>Recent content on Sabuの備忘録</description>
+    <description>Recent content in Categories on Sabuの備忘録</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2017 Sabu1015</copyright>
@@ -13,29 +13,21 @@
     
     
     <item>
-      <title>Hugo詰まったところの補足</title>
-      <link>https://sabu1015.github.io/2017/05/hugo%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AE%E8%A3%9C%E8%B6%B3/</link>
+      <title></title>
+      <link>https://sabu1015.github.io/categories/</link>
       <pubDate>Mon, 22 May 2017 19:57:13 +0900</pubDate>
       
-      <guid>https://sabu1015.github.io/2017/05/hugo%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AE%E8%A3%9C%E8%B6%B3/</guid>
-      <description>前回抑え忘れたこと 何度Github PagesにデータをpushしてもXMLファイルが読み込めないよー、という内容で 404 not foundが出ていたのでその対処法を書きます。
-どうやらページの生成が出来ていなかったらしいです。
-&amp;gt; hugo list drafts で下書き状態かどうかを確認して、これの実行後&amp;lt;記事名&amp;gt;.mdが出てきたら下書きから変更する必要があります。
-&amp;gt; hugo undraft content&amp;lt;記事の場所&amp;gt;&amp;lt;記事名.md&amp;gt; で下書きから変更ができます。
-後はhugoを叩いてビルドするだけです。</description>
+      <guid>https://sabu1015.github.io/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hugo詰まったところの補足</title>
-      <link>https://sabu1015.github.io/2017/05/hugo%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AE%E8%A3%9C%E8%B6%B3/</link>
-      <pubDate>Mon, 22 May 2017 19:57:13 +0900</pubDate>
+      <title>Hogehoge</title>
+      <link>https://sabu1015.github.io/categories/hogehoge/</link>
+      <pubDate>Mon, 22 May 2017 18:39:41 +0900</pubDate>
       
-      <guid>https://sabu1015.github.io/2017/05/hugo%E8%A9%B0%E3%81%BE%E3%81%A3%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%AE%E8%A3%9C%E8%B6%B3/</guid>
-      <description>前回抑え忘れたこと 何度Github PagesにデータをpushしてもXMLファイルが読み込めないよー、という内容で 404 not foundが出ていたのでその対処法を書きます。
-どうやらページの生成が出来ていなかったらしいです。
-&amp;gt; hugo list drafts で下書き状態かどうかを確認して、これの実行後&amp;lt;記事名&amp;gt;.mdが出てきたら下書きから変更する必要があります。
-&amp;gt; hugo undraft content&amp;lt;記事の場所&amp;gt;&amp;lt;記事名.md&amp;gt; で下書きから変更ができます。
-後はhugoを叩いてビルドするだけです。</description>
+      <guid>https://sabu1015.github.io/categories/hogehoge/</guid>
+      <description></description>
     </item>
     
   </channel>
